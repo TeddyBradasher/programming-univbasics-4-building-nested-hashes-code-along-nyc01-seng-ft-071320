@@ -6,7 +6,7 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         
-        {name: "benvolio", age: "", attitude: ""}
+        {name: "benvolio", age: "17", attitude: ""}
         {name: "", age: "", attitude: ""}
         
         
@@ -22,11 +22,7 @@ def fourth_challenge
       
       
       {name: "", age: "", attitude: ""}
-      
-      {}
-      
-      
-      
+      {name: "", age: "", attitude: ""}
       
       
         #your hashes here!
