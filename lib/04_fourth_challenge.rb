@@ -21,7 +21,7 @@ def fourth_challenge
       :heroine_friends => 
       
       
-      
+      {name: "", age: "", attitude: ""}
       
       {}
       
